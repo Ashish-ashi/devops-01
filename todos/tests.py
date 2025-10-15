@@ -3,5 +3,5 @@ from django.test import TestCase
 
 # Create your tests here.
 
-class test_abcd():
+class test_class():
     pass
